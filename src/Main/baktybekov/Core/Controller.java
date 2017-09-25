@@ -1,0 +1,1 @@
+package Main.baktybekov.Core;public class Controller {}
